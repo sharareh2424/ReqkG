@@ -1,2 +1,0 @@
-# ReqkG
-Evidence-Grounded Requirement 
