@@ -1,0 +1,190 @@
+﻿item_id,criterion,AR_label,MK_label,third_assessor_label,final_consensus_label,status
+IT000,Correct repair,1,1,,1,AGREED_AR_MK
+IT000,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT000,Intent preservation,5,5,,5,AGREED_AR_MK
+IT001,Correct repair,1,1,,1,AGREED_AR_MK
+IT001,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT001,Intent preservation,5,5,,5,AGREED_AR_MK
+IT002,Correct repair,1,1,,1,AGREED_AR_MK
+IT002,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT002,Intent preservation,4,4,,4,AGREED_AR_MK
+IT003,Correct repair,1,1,,1,AGREED_AR_MK
+IT003,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT003,Intent preservation,5,5,,5,AGREED_AR_MK
+IT004,Correct repair,0,0,,0,AGREED_AR_MK
+IT004,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT004,Intent preservation,5,3,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT005,Correct repair,0,0,,0,AGREED_AR_MK
+IT005,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT005,Intent preservation,5,3,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT006,Correct repair,0,0,,0,AGREED_AR_MK
+IT006,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT006,Intent preservation,5,3,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT007,Correct repair,0,0,,0,AGREED_AR_MK
+IT007,Information added beyond source,0,1,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT007,Intent preservation,4,3,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT008,Correct repair,0,0,,0,AGREED_AR_MK
+IT008,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT008,Intent preservation,5,3,4.0,4,ADJUDICATED_BY_ADJUDICATOR
+IT009,Correct repair,1,1,,1,AGREED_AR_MK
+IT009,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT009,Intent preservation,5,5,,5,AGREED_AR_MK
+IT010,Correct repair,1,1,,1,AGREED_AR_MK
+IT010,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT010,Intent preservation,5,5,,5,AGREED_AR_MK
+IT011,Correct repair,1,1,,1,AGREED_AR_MK
+IT011,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT011,Intent preservation,5,5,,5,AGREED_AR_MK
+IT012,Correct repair,1,0,0.0,0,ADJUDICATED_BY_ADJUDICATOR
+IT012,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT012,Intent preservation,5,3,4.0,4,ADJUDICATED_BY_ADJUDICATOR
+IT013,Correct repair,1,0,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT013,Information added beyond source,0,1,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT013,Intent preservation,4,2,3.0,3,ADJUDICATED_BY_ADJUDICATOR
+IT014,Correct repair,1,0,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT014,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT014,Intent preservation,5,4,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT015,Correct repair,1,1,,1,AGREED_AR_MK
+IT015,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT015,Intent preservation,5,5,,5,AGREED_AR_MK
+IT016,Correct repair,0,1,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT016,Information added beyond source,0,1,0.0,0,ADJUDICATED_BY_ADJUDICATOR
+IT016,Intent preservation,4,4,,4,AGREED_AR_MK
+IT017,Correct repair,1,1,,1,AGREED_AR_MK
+IT017,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT017,Intent preservation,5,5,,5,AGREED_AR_MK
+IT018,Correct repair,1,1,,1,AGREED_AR_MK
+IT018,Information added beyond source,1,0,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT018,Intent preservation,4,5,4.0,4,ADJUDICATED_BY_ADJUDICATOR
+IT019,Correct repair,1,1,,1,AGREED_AR_MK
+IT019,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT019,Intent preservation,4,4,,4,AGREED_AR_MK
+IT020,Correct repair,1,1,,1,AGREED_AR_MK
+IT020,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT020,Intent preservation,5,5,,5,AGREED_AR_MK
+IT021,Correct repair,1,1,,1,AGREED_AR_MK
+IT021,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT021,Intent preservation,4,4,,4,AGREED_AR_MK
+IT022,Correct repair,0,0,,0,AGREED_AR_MK
+IT022,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT022,Intent preservation,5,4,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT023,Correct repair,0,1,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT023,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT023,Intent preservation,5,5,,5,AGREED_AR_MK
+IT024,Correct repair,0,0,,0,AGREED_AR_MK
+IT024,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT024,Intent preservation,5,4,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT025,Correct repair,1,1,,1,AGREED_AR_MK
+IT025,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT025,Intent preservation,5,5,,5,AGREED_AR_MK
+IT026,Correct repair,1,1,,1,AGREED_AR_MK
+IT026,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT026,Intent preservation,5,5,,5,AGREED_AR_MK
+IT027,Correct repair,1,1,,1,AGREED_AR_MK
+IT027,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT027,Intent preservation,5,5,,5,AGREED_AR_MK
+IT028,Correct repair,1,1,,1,AGREED_AR_MK
+IT028,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT028,Intent preservation,4,4,,4,AGREED_AR_MK
+IT029,Correct repair,1,1,,1,AGREED_AR_MK
+IT029,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT029,Intent preservation,5,5,,5,AGREED_AR_MK
+IT030,Correct repair,1,1,,1,AGREED_AR_MK
+IT030,Information added beyond source,1,0,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT030,Intent preservation,4,5,3.0,3,ADJUDICATED_BY_ADJUDICATOR
+IT031,Correct repair,1,1,,1,AGREED_AR_MK
+IT031,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT031,Intent preservation,4,5,4.0,4,ADJUDICATED_BY_ADJUDICATOR
+IT032,Correct repair,1,0,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT032,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT032,Intent preservation,5,4,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT033,Correct repair,1,1,,1,AGREED_AR_MK
+IT033,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT033,Intent preservation,4,3,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT034,Correct repair,1,1,,1,AGREED_AR_MK
+IT034,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT034,Intent preservation,4,4,,4,AGREED_AR_MK
+IT035,Correct repair,1,1,,1,AGREED_AR_MK
+IT035,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT035,Intent preservation,5,4,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT036,Correct repair,1,1,,1,AGREED_AR_MK
+IT036,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT036,Intent preservation,5,5,,5,AGREED_AR_MK
+IT037,Correct repair,1,0,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT037,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT037,Intent preservation,5,3,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT038,Correct repair,1,1,,1,AGREED_AR_MK
+IT038,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT038,Intent preservation,5,5,,5,AGREED_AR_MK
+IT039,Correct repair,1,1,,1,AGREED_AR_MK
+IT039,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT039,Intent preservation,3,5,2.0,2,ADJUDICATED_BY_ADJUDICATOR
+IT040,Correct repair,1,1,,1,AGREED_AR_MK
+IT040,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT040,Intent preservation,5,5,,5,AGREED_AR_MK
+IT041,Correct repair,1,0,0.0,0,ADJUDICATED_BY_ADJUDICATOR
+IT041,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT041,Intent preservation,5,3,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT042,Correct repair,1,1,,1,AGREED_AR_MK
+IT042,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT042,Intent preservation,5,5,,5,AGREED_AR_MK
+IT043,Correct repair,1,1,,1,AGREED_AR_MK
+IT043,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT043,Intent preservation,5,5,,5,AGREED_AR_MK
+IT044,Correct repair,1,1,,1,AGREED_AR_MK
+IT044,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT044,Intent preservation,5,4,3.0,3,ADJUDICATED_BY_ADJUDICATOR
+IT045,Correct repair,1,1,,1,AGREED_AR_MK
+IT045,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT045,Intent preservation,4,4,,4,AGREED_AR_MK
+IT046,Correct repair,1,1,,1,AGREED_AR_MK
+IT046,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT046,Intent preservation,4,4,,4,AGREED_AR_MK
+IT047,Correct repair,1,1,,1,AGREED_AR_MK
+IT047,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT047,Intent preservation,5,5,,5,AGREED_AR_MK
+IT048,Correct repair,1,1,,1,AGREED_AR_MK
+IT048,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT048,Intent preservation,5,5,,5,AGREED_AR_MK
+IT049,Correct repair,1,0,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT049,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT049,Intent preservation,4,2,3.0,3,ADJUDICATED_BY_ADJUDICATOR
+IT050,Correct repair,0,0,,0,AGREED_AR_MK
+IT050,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT050,Intent preservation,5,3,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT051,Correct repair,1,1,,1,AGREED_AR_MK
+IT051,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT051,Intent preservation,5,5,,5,AGREED_AR_MK
+IT052,Correct repair,1,1,,1,AGREED_AR_MK
+IT052,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT052,Intent preservation,4,4,,4,AGREED_AR_MK
+IT053,Correct repair,1,1,,1,AGREED_AR_MK
+IT053,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT053,Intent preservation,5,5,,5,AGREED_AR_MK
+IT054,Correct repair,1,0,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT054,Information added beyond source,0,1,0.0,0,ADJUDICATED_BY_ADJUDICATOR
+IT054,Intent preservation,4,3,4.0,4,ADJUDICATED_BY_ADJUDICATOR
+IT055,Correct repair,1,1,,1,AGREED_AR_MK
+IT055,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT055,Intent preservation,5,5,,5,AGREED_AR_MK
+IT056,Correct repair,1,0,0.0,0,ADJUDICATED_BY_ADJUDICATOR
+IT056,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT056,Intent preservation,2,2,,2,AGREED_AR_MK
+IT057,Correct repair,1,1,,1,AGREED_AR_MK
+IT057,Information added beyond source,1,1,,1,AGREED_AR_MK
+IT057,Intent preservation,4,4,,4,AGREED_AR_MK
+IT058,Correct repair,1,0,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT058,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT058,Intent preservation,5,2,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT059,Correct repair,1,0,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT059,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT059,Intent preservation,5,4,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT060,Correct repair,1,0,1.0,1,ADJUDICATED_BY_ADJUDICATOR
+IT060,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT060,Intent preservation,5,2,5.0,5,ADJUDICATED_BY_ADJUDICATOR
+IT061,Correct repair,1,1,,1,AGREED_AR_MK
+IT061,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT061,Intent preservation,5,5,,5,AGREED_AR_MK
+IT062,Correct repair,1,1,,1,AGREED_AR_MK
+IT062,Information added beyond source,0,0,,0,AGREED_AR_MK
+IT062,Intent preservation,5,5,,5,AGREED_AR_MK
